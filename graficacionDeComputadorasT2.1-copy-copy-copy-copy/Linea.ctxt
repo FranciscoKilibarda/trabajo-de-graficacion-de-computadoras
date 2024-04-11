@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Linea
+comment1.params=p1\ p2\ canvas
+comment1.target=Linea(Punto,\ Punto,\ Panel)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Grafico
+comment1.params=
+comment1.target=void\ dibujarRelleno()
+comment2.params=color\ delay
+comment2.target=void\ dibujarRelleno(XColor,\ int)
+comment3.params=color
+comment3.target=void\ setBordeColor(XColor)
+comment4.params=color
+comment4.target=void\ setRellenoColor(XColor)
+numComments=5

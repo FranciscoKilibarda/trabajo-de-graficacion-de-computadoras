@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment1.params=p1\ p2\ p3\ canvas
+comment1.target=Triangulo(Punto,\ Punto,\ Punto,\ Panel)
+comment2.params=grosor\ estilo\ color\ delay
+comment2.target=void\ dibujarContorno(int,\ Estilo,\ XColor,\ int)
+comment3.params=color\ delay
+comment3.target=void\ dibujarRelleno(XColor,\ int)
+comment4.params=startX\ endX\ y\ color\ delay
+comment4.target=void\ dibujarLineaHorizontal(int,\ int,\ int,\ XColor,\ int)
+comment5.params=color
+comment5.target=void\ setBordeColor(XColor)
+comment6.params=color
+comment6.target=void\ setRellenoColor(XColor)
+numComments=7
